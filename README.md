@@ -1,4 +1,1 @@
-Hello World! (WAR-style)
-===============
-
-This is the simplest possible Java webapp for testing servlet container deployments.  It should work on any container and requires no other dependencies or configuration.
+Setting Up the Pipeline: Our CI/CD pipeline is orchestrated by Jenkins, a popular automation server known for its flexibility and extensibility. By defining stages within Jenkins pipelines, we can automate the entire software delivery process.
